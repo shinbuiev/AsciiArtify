@@ -10,3 +10,8 @@ Conclusion:
 Minikube: if compatibility with older developments needs to be maintained and MacOS and Windows are required. 
 Kind: if testing applications on real nodes and non-Linux OS is necessary. 
 K3s: if working with very limited resources and where Linux is the only OS available. 
+
+Demo:
+Minikube
+![Image](./minikube.gif)
+
