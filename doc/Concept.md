@@ -7,11 +7,11 @@
 | **Disadvantages** | High resource requirements | No stable release yet | Slightly different from native Kubernetes |
 
 Conclusion: 
-Minikube: if compatibility with older developments needs to be maintained and MacOS and Windows are required. 
-Kind: if testing applications on real nodes and non-Linux OS is necessary. 
-K3s: if working with very limited resources and where Linux is the only OS available. 
+Minikube: if compatibility with older developments needs to be maintained and MacOS and Windows are required. <br>
+Kind: if testing applications on real nodes and non-Linux OS is necessary. <br>
+K3s: if working with very limited resources and where Linux is the only OS available. <br>
 
 Demo:
-Minikube
+Minikube<br>
 ![Image](./minikube.gif)
 
