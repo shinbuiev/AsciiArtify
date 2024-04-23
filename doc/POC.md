@@ -6,7 +6,7 @@ kubectl port-forward svc/argocd-server -n argocd 8080:443&
 
 Step 2. Open the URL https://127.0.0.1:8080 in your web browser.
 
-Step 3. Install the ArgoCD CLI by following the instructions provided in the ArgoCD CLI Installation Guide.
+Step 3. Install the ArgoCD CLI by following the instructions provided in the ArgoCD CLI Installation Guide https://argo-cd.readthedocs.io/en/stable/cli_installation/
 
 Step 4. Obtain the admin password by executing the command:
 
